@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "Cowboys.Worker.Manager": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
